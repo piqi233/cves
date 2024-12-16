@@ -93,8 +93,8 @@
 
 5. upload the evil file payload.ser.gz
 
-![image-20241216231621478](./assets/image-20241216231621478-1734362191375-1.png)
+![image-20241216231621478](./description/assets/image-20241216231621478-1734362191375-1.png)
 
 Successfully executed the `calc` command, which opens the calculator.
 
-![image-20241216231758863](./assets/image-20241216231758863.png)
+![image-20241216231758863](./description/assets/image-20241216231758863.png)
