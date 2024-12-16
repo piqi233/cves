@@ -4,7 +4,7 @@
 
 **Affected Version:** Datart  ≤ 1.0.0-rc.3
 
-**Vendor:** [Datart GitHub Repository](https://github.com/example/WebAppX)
+**Vendor:** [Datart GitHub Repository](https://github.com/piqi233/cves)
 
 **Software:** [Datart](https://github.com/running-elephant/datart/)
 
